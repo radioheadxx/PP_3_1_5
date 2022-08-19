@@ -3,7 +3,6 @@ package org.example;
 import org.example.config.MyConfig;
 import org.example.entity.User;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
 
